@@ -84,7 +84,7 @@ Whether you're a potential employer, lecturer, or fellow student, I invite you t
 ## 5. CV Submission
 
 ### Evidence
-- Screenshot of job submission portal (To be uploaded to GitHub)
+- [Click to View CV Submission Evidence](CV%20Submission.png)
 
 ### Reflection (STAR)
 **Situation:** After finalizing my CV, I applied for internship roles through various platforms.
