@@ -15,13 +15,12 @@ Each section combines authentic evidence with detailed STAR-based reflections to
 Whether you're a potential employer, lecturer, or fellow student, I invite you to explore how my skills and passion are aligning with a career in software development.
 
 
-
 ---
 
 ## 1. Career Counselling
 
 ### Evidence
-- ![Career Counselling](Career%20Counselling.png)
+- [Click to View Career Counselling Evidence](Career%20Counselling.png)
 
 ### Reflection (STAR)
 **Situation:** I completed an online formative career counselling assessment as part of my career development journey at CPUT.
@@ -37,7 +36,7 @@ Whether you're a potential employer, lecturer, or fellow student, I invite you t
 ## 2. Skills and Interests
 
 ### Evidence
-- ![Skills and Interests](Skills%20and%20Interests.png)
+- [Click to View Skills and Interests Evidence](Skills%20and%20Interests.png)
 
 ### Reflection (STAR)
 **Situation:** As part of my professional development training, I completed a formative assessment on values, skills, interests, and how these influence career choices.
@@ -53,7 +52,7 @@ Whether you're a potential employer, lecturer, or fellow student, I invite you t
 ## 3. Personality Assessment
 
 ### Evidence
-- ![Personality Assessment](Personality%20Assessment.png)
+- [Click to View Personality Assessment Evidence](Personality%20Assessment.png)
 
 ### Reflection (STAR)
 **Situation:** I undertook a personality and career matching assessment to understand how personal traits align with various career paths.
@@ -99,13 +98,13 @@ Whether you're a potential employer, lecturer, or fellow student, I invite you t
 ---
 
 ## 📫 How to reach me
-- LinkedIn: [KwandaTwaloUniAcc/KwandaTwaloUniAcc](https://www.linkedin.com/in/KwandaTwaloUniAcc/)
+- LinkedIn Profile: [KwandaTwaloUniAcc/KwandaTwaloUniAcc](https://www.linkedin.com/in/kwanda-twalo-894998258/)
 
 ## 💡 About Me
-- 🔭 I’m currently working on improving my JavaScript and React.js skills.
-- 🌱 I’m currently learning advanced backend frameworks like Node.js and Express.
+- 🔭 I’m currently working on improving my JavaScript, Java and React.js skills.
+- 🌱 I’m currently learning advanced backend frameworks like SpringBoot and Node.js.
 - 👯 I’m looking to collaborate on open source and student-led tech projects.
 - 🤔 I’m looking for help with building RESTful APIs.
-- 💬 Ask me about Python, HTML, CSS, Java.
+- 💬 Ask me about Java, HTML, CSS, Python.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love finding patterns in data and exploring tech solutions to everyday problems.
