@@ -97,8 +97,11 @@ Whether you're a potential employer, lecturer, or fellow student, I invite you t
 
 ---
 
-## 📫 How to reach me
-- LinkedIn Profile: [KwandaTwaloUniAcc/KwandaTwaloUniAcc](https://www.linkedin.com/in/kwanda-twalo-894998258/)
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kwanda%20Twalo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kwanda-twalo-894998258/)
+
+💼 Feel free to drop me a message if you’re interested in collaborating, networking, or just chatting about tech and career growth!
 
 ## 💡 About Me
 - 🔭 I’m currently working on improving my JavaScript, Java and React.js skills.
