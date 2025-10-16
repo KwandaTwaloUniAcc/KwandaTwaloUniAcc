@@ -97,6 +97,67 @@ Whether you're a potential employer, lecturer, or fellow student, I invite you t
 
 ---
 
+## 6. Interview Skills
+
+### Evidence
+- [Click to View Interview Skills Evidence](Interview%20Skills.png)  
+- [Watch Final Mock Interview (MP4)](Final%20Mock%20Interview.mp4)
+
+### Reflection (STAR)
+**Situation:** I participated in an interview skills activity and recorded a mock interview as part of my career readiness training.  
+**Task:** Demonstrate professional communication, confidence, and readiness for real-world interviews.  
+**Action:** I prepared responses to common interview questions, practiced verbal and non-verbal communication, and reviewed feedback to improve clarity and tone.  
+**Result:** The exercise helped me refine how I present my strengths and experiences, enhancing my confidence in formal interview settings.
+
+---
+
+## 7. Professional Networking
+
+### Evidence
+- [Click to View Professional Networking Evidence](Professional%20Network.png)
+
+### Reflection (STAR)
+**Situation:** I completed a professional networking module to learn how to build and maintain valuable career connections.  
+**Task:** Understand networking principles and demonstrate knowledge of effective networking strategies.  
+**Action:** I answered a series of scenario-based questions covering topics such as networking events, etiquette, and follow-ups.  
+**Result:** I achieved 100% completion, showing a solid grasp of how to establish professional relationships and communicate effectively in industry settings.
+
+---
+
+## 8. Workplace Etiquette
+
+### Evidence
+- [Click to View Workplace Etiquette Evidence](Workplace%20Etiquette.png)
+
+### Reflection (STAR)
+**Situation:** I completed a module focused on workplace etiquette and professionalism.  
+**Task:** Learn about proper workplace behavior, communication, and ethics.  
+**Action:** I worked through practical questions about workplace conduct, punctuality, confidentiality, and respect.  
+**Result:** The module reinforced the importance of professionalism, time management, and interpersonal respect in a real-world work environment.
+
+---
+
+## 9. Business Communication
+
+### Evidence
+- [Click to View Business Communication Evidence](Business%20Communication.png)
+
+### Reflection (STAR)
+**Situation:** I engaged in a business communication module to understand how to communicate effectively in professional settings.  
+**Task:** Demonstrate understanding of formal and non-verbal communication in workplace scenarios.  
+**Action:** I completed a quiz assessing my knowledge of tone, formality, and digital communication etiquette.  
+**Result:** The activity helped strengthen my ability to write and speak professionally, an essential skill for workplace collaboration and leadership.
+
+---
+
+## 10. Summary of Growth
+
+Through these additional modules, I’ve expanded my professional toolkit — from **effective communication** and **interview confidence** to **networking and workplace ethics**.  
+These experiences have deepened my understanding of how soft skills complement technical expertise in software development.
+
+---
+
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kwanda%20Twalo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kwanda-twalo-894998258/)
